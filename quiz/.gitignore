@@ -1,0 +1,17 @@
+echo "# Compiled output
+/target/
+
+# IDE files
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+.vscode/
+
+# Log files
+*.log
+
+# Environment-specific properties (crucial!)
+application-prod.properties
+" > .gitignore
